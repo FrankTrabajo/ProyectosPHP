@@ -1,0 +1,45 @@
+.sinHacer{
+    color:black;
+}
+.enCurso{
+    color:green;
+}
+.finalizado{
+    color:red;
+}
+.enPausa{
+    color:yellow;
+}
+
+
+
+.menu {
+    background-color: grey;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+}
+
+.menu li {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.menu li:hover {
+    background-color: whitesmoke;
+}
+
+.menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* ----------- LOGIN ----------- */
+
+.formulario{
+    border:solid grey 1px;
+    border-radius: 10px;
+    text-align: center;
+}
